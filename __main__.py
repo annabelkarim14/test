@@ -1,3 +1,5 @@
+# Usage: python .
+
 from numpy import array, mean, ndarray, std
 from pandas import DataFrame
 from scipy.optimize import fsolve
