@@ -1,4 +1,4 @@
 git fetch
 git checkout master
-git checkout -- *
+#git checkout -- *
 git pull
