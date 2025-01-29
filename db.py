@@ -1,8 +1,8 @@
 """
 Usage:
+./venv.ps1
 pip install -r requirements.txt
 python -m pip install -U pip
-./venv.ps1
 python db.py
 """
 
