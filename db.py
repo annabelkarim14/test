@@ -31,7 +31,7 @@ def main() -> None:
     contain: str = "e"
     data_frame: DataFrame = select_records(connection, contain)
 
-    # Disconnect from thedatabase
+    # Disconnect from the database
     disconnect(connection)
 
     # Delete the database file
